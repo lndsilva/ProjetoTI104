@@ -1,0 +1,13 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.frmJanela.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.frmCalculaPrecos.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.frmComponentes.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.frmDadosPessoais.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\bin\Debug\SalgadosApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\Debug\SalgadosApp.csproj.AssemblyReference.cache

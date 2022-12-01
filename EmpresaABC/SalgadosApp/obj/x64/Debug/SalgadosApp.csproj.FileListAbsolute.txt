@@ -1,0 +1,28 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmJanela.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmCalculaPrecos.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmComponentes.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmDadosPessoais.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmCalculadora.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.exe
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\bin\x64\Debug\SalgadosApp.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmJanela.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmCalculadora.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmCalculaPrecos.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmComponentes.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.frmDadosPessoais.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.exe
+C:\Users\laercio.nsilva\Documents\ProjetoTI104\EmpresaABC\SalgadosApp\obj\x64\Debug\SalgadosApp.pdb

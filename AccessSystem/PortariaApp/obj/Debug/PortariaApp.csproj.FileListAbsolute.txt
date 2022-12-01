@@ -1,0 +1,14 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\Debug\PortariaApp.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\Debug\PortariaApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\Debug\PortariaApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.frmSplash.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.frmLogin.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.frmMenuPrincipal.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.frmFuncionarios.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\Debug\PortariaApp.frmEstacionamento.resources
