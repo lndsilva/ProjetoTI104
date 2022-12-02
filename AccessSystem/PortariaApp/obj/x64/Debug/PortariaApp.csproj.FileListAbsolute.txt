@@ -103,3 +103,4 @@ T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de
 T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.pdb
 C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmBuscaCEP.resources
 C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmGerenciarCadastros.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmCadastroTab.resources

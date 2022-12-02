@@ -37,9 +37,9 @@ namespace PortariaApp
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtProcurar = new System.Windows.Forms.TextBox();
             this.gbpDadosCadastrais = new System.Windows.Forms.GroupBox();
-            this.btnAdicionar = new System.Windows.Forms.Button();
-            this.btnEditar = new System.Windows.Forms.Button();
             this.btnDeletar = new System.Windows.Forms.Button();
+            this.btnEditar = new System.Windows.Forms.Button();
+            this.btnAdicionar = new System.Windows.Forms.Button();
             this.dgvDadosCadastrais = new System.Windows.Forms.DataGridView();
             this.dgvNome = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dgvEmail = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -119,16 +119,16 @@ namespace PortariaApp
             this.gbpDadosCadastrais.TabStop = false;
             this.gbpDadosCadastrais.Text = "Dados Cadastrais";
             // 
-            // btnAdicionar
+            // btnDeletar
             // 
-            this.btnAdicionar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAdicionar.Location = new System.Drawing.Point(378, 44);
-            this.btnAdicionar.Name = "btnAdicionar";
-            this.btnAdicionar.Size = new System.Drawing.Size(80, 23);
-            this.btnAdicionar.TabIndex = 4;
-            this.btnAdicionar.Text = "&Adicionar";
-            this.btnAdicionar.UseVisualStyleBackColor = true;
-            this.btnAdicionar.Click += new System.EventHandler(this.btnAdicionar_Click);
+            this.btnDeletar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeletar.Location = new System.Drawing.Point(562, 44);
+            this.btnDeletar.Name = "btnDeletar";
+            this.btnDeletar.Size = new System.Drawing.Size(80, 23);
+            this.btnDeletar.TabIndex = 6;
+            this.btnDeletar.Text = "&Deletar";
+            this.btnDeletar.UseVisualStyleBackColor = true;
+            this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
             // 
             // btnEditar
             // 
@@ -140,15 +140,16 @@ namespace PortariaApp
             this.btnEditar.Text = "&Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
             // 
-            // btnDeletar
+            // btnAdicionar
             // 
-            this.btnDeletar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDeletar.Location = new System.Drawing.Point(562, 44);
-            this.btnDeletar.Name = "btnDeletar";
-            this.btnDeletar.Size = new System.Drawing.Size(80, 23);
-            this.btnDeletar.TabIndex = 6;
-            this.btnDeletar.Text = "&Deletar";
-            this.btnDeletar.UseVisualStyleBackColor = true;
+            this.btnAdicionar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdicionar.Location = new System.Drawing.Point(378, 44);
+            this.btnAdicionar.Name = "btnAdicionar";
+            this.btnAdicionar.Size = new System.Drawing.Size(80, 23);
+            this.btnAdicionar.TabIndex = 4;
+            this.btnAdicionar.Text = "&Adicionar";
+            this.btnAdicionar.UseVisualStyleBackColor = true;
+            this.btnAdicionar.Click += new System.EventHandler(this.btnAdicionar_Click);
             // 
             // dgvDadosCadastrais
             // 
@@ -160,6 +161,7 @@ namespace PortariaApp
             this.dgvDadosCadastrais.Name = "dgvDadosCadastrais";
             this.dgvDadosCadastrais.Size = new System.Drawing.Size(662, 326);
             this.dgvDadosCadastrais.TabIndex = 7;
+            this.dgvDadosCadastrais.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDadosCadastrais_CellContentClick);
             // 
             // dgvNome
             // 

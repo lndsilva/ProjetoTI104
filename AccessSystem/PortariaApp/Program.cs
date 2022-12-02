@@ -16,7 +16,7 @@ namespace PortariaApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmGerenciarCadastros());
+            Application.Run(new frmCadastroTab());
         }
     }
 }

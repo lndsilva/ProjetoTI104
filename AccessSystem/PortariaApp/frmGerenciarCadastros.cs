@@ -60,13 +60,24 @@ namespace PortariaApp
 
         private void btnAdicionar_Click(object sender, EventArgs e)
         {
-            string nome, email;
+           string nome, email;
 
             nome = txtNome.Text;
             email = txtEmail.Text;
 
 
             dgvDadosCadastrais.Rows.Add(nome, email);
+            //dgvDadosCadastrais.Rows.Insert(2,"Caio","italiano@gmail.com");
+        }
+
+        private void dgvDadosCadastrais_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
+
+        private void btnDeletar_Click(object sender, EventArgs e)
+        {
+            dgvDadosCadastrais.Rows.RemoveAt(dgvDadosCadastrais.CurrentRow.Cells[0].RowIndex);
         }
     }
 }
