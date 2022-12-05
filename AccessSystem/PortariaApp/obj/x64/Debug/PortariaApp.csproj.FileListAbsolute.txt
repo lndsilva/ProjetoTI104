@@ -158,3 +158,5 @@ C:\Users\lndsi\OneDrive\Documentos\Visual Studio 2019\ProjetoTI104\AccessSystem\
 C:\Users\lndsi\OneDrive\Documentos\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.CopyComplete
 C:\Users\lndsi\OneDrive\Documentos\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.exe
 C:\Users\lndsi\OneDrive\Documentos\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.pdb
+C:\Users\lndsi\OneDrive\Documentos\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmLivros.resources
+C:\Users\lndsi\OneDrive\Documentos\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmMorador.resources
