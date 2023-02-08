@@ -136,6 +136,12 @@
     <Compile Include="frmCadastroTab.Designer.cs">
       <DependentUpon>frmCadastroTab.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCarregaCodigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarregaCodigo.Designer.cs">
+      <DependentUpon>frmCarregaCodigo.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmEstacionamento.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -227,6 +233,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCadastroTab.resx">
       <DependentUpon>frmCadastroTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarregaCodigo.resx">
+      <DependentUpon>frmCarregaCodigo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmEstacionamento.resx">
       <DependentUpon>frmEstacionamento.cs</DependentUpon>

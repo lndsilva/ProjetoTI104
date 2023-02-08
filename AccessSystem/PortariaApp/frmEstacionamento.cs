@@ -40,5 +40,10 @@ namespace PortariaApp
             abrir.Show();
             this.Visible = false;
         }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
