@@ -63,6 +63,8 @@ namespace PortariaApp
                 autorizo = true;
 
                 dgvCadastro.Rows.Add(codigo, nome, autorizo);
+                
+                
             }
         }
     }

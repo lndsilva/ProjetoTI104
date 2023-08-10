@@ -1,0 +1,16 @@
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x86\Debug\PortariaApp.exe.config
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x86\Debug\PortariaApp.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x86\Debug\PortariaApp.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmEstacionamento.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmFuncionarios.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmLogin.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmMenuPrincipal.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmProdutos.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmSplash.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.frmVeiculos.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.ListagemProdutos.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.Properties.Resources.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.csproj.GenerateResource.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x86\Debug\PortariaApp.pdb

@@ -16,7 +16,7 @@ namespace PortariaApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmCarregaCodigo());
+            Application.Run(new frmFuncionarios());
         }
     }
 }

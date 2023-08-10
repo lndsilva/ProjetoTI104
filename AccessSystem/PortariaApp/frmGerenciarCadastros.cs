@@ -79,5 +79,10 @@ namespace PortariaApp
         {
             dgvDadosCadastrais.Rows.RemoveAt(dgvDadosCadastrais.CurrentRow.Cells[0].RowIndex);
         }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,107 @@
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.exe.config
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Correios.Net.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySql.Data.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySqlConnector.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Buffers.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Memory.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\ZstdNet.dll
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Correios.Net.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySql.Data.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySqlConnector.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Buffers.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Memory.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmEstacionamento.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmFuncionarios.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmGerenciarUsuarios.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmListagemProdutos.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmLogin.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmMenuPrincipal.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmPesquisar.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmProdutos.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmSplash.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmTestarConexao.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmVeiculos.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.CopyComplete
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.exe
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.exe.config
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\PortariaApp.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\BouncyCastle.Crypto.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Correios.Net.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Google.Protobuf.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Hash.xxHash.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySql.Data.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySqlConnector.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Buffers.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Memory.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Numerics.Vectors.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\ZstdNet.dll
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\BouncyCastle.Crypto.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Correios.Net.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Google.Protobuf.pdb
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\Google.Protobuf.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\K4os.Hash.xxHash.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySql.Data.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\MySqlConnector.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Buffers.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Memory.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Numerics.Vectors.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.AssemblyReference.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmBuscaCEP.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmEstacionamento.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmFuncionarios.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmGerenciarUsuarios.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmListagemProdutos.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmLogin.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmMenuPrincipal.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmPesquisar.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmProdutos.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmSplash.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmTestarConexao.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmVeiculos.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.Properties.Resources.resources
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.GenerateResource.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.csproj.CopyComplete
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.exe
+T:\Cursos Tecnicos\9900212653_TI104_T310123\!    TI104\SISTEMAS\UC12\Material de apoio\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.pdb
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmBuscaCEP.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmGerenciarCadastros.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmCadastroTab.resources
+C:\Users\laercio.nsilva\Documents\Visual Studio 2019\ProjetoTI104\AccessSystem\PortariaApp\obj\x64\Debug\PortariaApp.frmCarregaCodigo.resources

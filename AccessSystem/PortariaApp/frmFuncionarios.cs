@@ -205,7 +205,6 @@ namespace PortariaApp
             BuscarIMG.Filter = ("*jpg|*.jpg|*png|*.png|*bmp|*.bmp|*tif|*.tif");
             BuscarIMG.ShowDialog();
             pcbFoto.ImageLocation = (BuscarIMG.FileName);
-
         }
 
         private void btnExcluirFoto_Click(object sender, EventArgs e)
@@ -303,7 +302,7 @@ namespace PortariaApp
                     MessageBox.Show("Impossível excluir funcionário, pois é um usuário do sistema!!!", "Mensagem do sistema",
                         MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
                 }
-                
+
             }
             else
             {
