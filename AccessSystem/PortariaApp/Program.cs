@@ -16,7 +16,11 @@ namespace PortariaApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new frmFuncionarios());
+=======
+            Application.Run(new frmLivros());
+>>>>>>> e73d4b176481b34891269e3d3c023b120a0b550b
         }
     }
 }

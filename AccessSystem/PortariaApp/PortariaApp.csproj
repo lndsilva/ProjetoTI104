@@ -118,6 +118,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conecta_Livros.cs" />
     <Compile Include="Conexao.cs" />
     <Compile Include="Connected Services\WSCorreios\Reference.cs">
       <AutoGen>True</AutoGen>
@@ -171,6 +172,12 @@
     </Compile>
     <Compile Include="frmListagemProdutos.Designer.cs">
       <DependentUpon>frmListagemProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLivros.Designer.cs">
+      <DependentUpon>frmLivros.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -252,11 +259,17 @@
     <EmbeddedResource Include="frmListagemProdutos.resx">
       <DependentUpon>frmListagemProdutos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLivros.resx">
+      <DependentUpon>frmLivros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenuPrincipal.resx">
       <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMorador.resx">
+      <DependentUpon>frmMorador.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPesquisar.resx">
       <DependentUpon>frmPesquisar.cs</DependentUpon>

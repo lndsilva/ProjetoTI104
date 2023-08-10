@@ -62,9 +62,28 @@ namespace PortariaApp
             {
                 autorizo = true;
 
+                dgvCadastro.Rows.Clear();
+
                 dgvCadastro.Rows.Add(codigo, nome, autorizo);
+<<<<<<< HEAD
                 
                 
+=======
+
+                MessageBox.Show("Cadastro realizado",
+                    "Sistema",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Information,
+                    MessageBoxDefaultButton.Button1);
+
+                tbcCadastro.SelectedIndex = 1;
+                txtCodigo.Text = "";
+                txtNome.Text = "";
+                ckbAutorizo.Checked = false;
+
+                txtCodigo.Focus();
+
+>>>>>>> e73d4b176481b34891269e3d3c023b120a0b550b
             }
         }
     }
